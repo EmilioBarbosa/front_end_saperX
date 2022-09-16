@@ -2,7 +2,7 @@
 
 Uma lista de contatos que consome uma api para buscar as informações
 
-##Requisitos
+## Requisitos
 ```bash
 node: 14.19 ou superior
 quasar: 
