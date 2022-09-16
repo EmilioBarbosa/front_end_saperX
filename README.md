@@ -18,13 +18,13 @@ npm install
 
 ### Iniciar servidor 
 ```bash
-quasar dev
+npx quasar dev
 ```
 
 
 ### Build para produção
 ```bash
-quasar build
+npx quasar build
 ```
 
 ### Customize the configuration
