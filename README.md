@@ -7,7 +7,6 @@ Uma lista de contatos que consome uma api para buscar as informações
 node: 14.19 ou superior
 quasar: 
 npm i -g @quasar/cli
-npm init quasar
 
 ```
 
