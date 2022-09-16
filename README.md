@@ -2,20 +2,29 @@
 
 Uma lista de contatos que consome uma api para buscar as informações
 
-## Install the dependencies
+##Requisitos
+```bash
+node: 14.19 ou superior
+quasar: 
+npm i -g @quasar/cli
+npm init quasar
+
+```
+
+## Instalar dependências
 ```bash
 yarn
 # or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciar servidor 
 ```bash
 quasar dev
 ```
 
 
-### Build the app for production
+### Build para produção
 ```bash
 quasar build
 ```
